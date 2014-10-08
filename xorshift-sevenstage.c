@@ -1,3 +1,12 @@
+/*
+ * Code from
+ * Figure 1,
+ * François Panneton and Pierre L'ecuyer. 2005. 
+ * On the xorshift random number generators. 
+ * ACM Trans. Model. Comput. Simul. 15, 4 (October 2005), 346-361.
+ * DOI=10.1145/1113316.11133
+ */
+
 #include <stdio.h>
 
 static unsigned int x[8];	/* Generator's state.*/
