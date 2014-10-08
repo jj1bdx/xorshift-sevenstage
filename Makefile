@@ -1,4 +1,4 @@
-# Makefile of test sequence generator for xorshift64star.c
+# Makefile for xorshift-sevenstage
 # Written by Kenji Rikitake
 # License: CC0 / public domain
 
